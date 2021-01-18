@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sieve
+comment1.params=nums
+comment1.target=void\ s(java.util.ArrayList)
+comment2.params=myList\ nums
+comment2.target=java.util.ArrayList\ gc(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
